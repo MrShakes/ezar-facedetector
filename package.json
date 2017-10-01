@@ -1,0 +1,33 @@
+{
+  "name": "facedetector",
+  "version": "1.0.0",
+  "description": "This plugin allows ",
+  "cordova": {
+    "id": "cordova-plugin-ezar-facedetector",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrShakes/ezar-facedetector.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Ezar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrShakes/ezar-facedetector/issues"
+  },
+  "homepage": "https://github.com/MrShakes/ezar-facedetector#readme"
+}
